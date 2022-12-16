@@ -3,6 +3,8 @@
 A Redmine plugin to search for possible duplicates when users are about to open new issues.
 You can find more information on the project wiki: https://github.com/abahgat/redmine_didyoumean/wiki
 
+It is adapted for Redmine 5 and uses only simple sql search.
+
 ## Install
 
 1. Follow the Redmine plugin installation steps at: http://www.redmine.org/wiki/redmine/Plugins
