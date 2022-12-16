@@ -1,5 +1,6 @@
 div#similar_issues {
   padding: 5px 5px 5px 180px;
+  color: red;
 }
 
 ul#similar_issues_list {
